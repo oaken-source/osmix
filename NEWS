@@ -1,0 +1,26 @@
+
+OSMix NEWS -- history of user-visible changes. 2019-01-29
+Copyright (C) Andreas Grapentin
+See the end for copying conditions
+
+2019-02-01  Version 0.0.1
+
+	* simple runnable and debuggable example (arm)
+
+2019-01-29  Version 0.0
+
+	* start of development
+
+-----------------------------------------------------------------------------
+Copyright Information:
+
+Copyright (C) 2019 Andreas Grapentin
+
+  Permission is granted to anyone to make or distribute verbatim copies of
+  this document as received, in any medium, provided that the copyright
+  notice and this permission notice are preserved, thus giving the recipient
+  permission to redistribute in turn.
+
+  Permission is granted to distribute modified versions of this document, or
+  of portions of it, under the above conditions, provided also that they carry
+  prominent notices stating who last changed them.

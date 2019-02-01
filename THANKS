@@ -1,0 +1,24 @@
+
+OSMix THANKS file
+
+OSMix has originally been conceived and created by Andreas Grapentin, for the
+Operating Systems and Middleware Chair at Hasso Plattner Institute, University
+of Potsdam, Germany. This file aims at listing all people who positively
+supported the development of OSMix, for example by suggesting features,
+pointing out problems, or contributing in any other way, ordered by the time
+they first added to the project.
+
+If you feel that your name is missing here, please contact:
+    <andreas.grapentin@hpi.uni-potsdam.de>
+
+  Sven Köhler
+    for his work on nupkux, and generally being awesome
+
+  Dimitri Korsch, Kirstin Heidler, Rakesh Kumar-Sah, Nicco Kunzmann
+    for their work on bringing the first prototype of ninjastorms to life,
+    which inspired this project
+
+  Christian Werling, Carsten Walther
+    for improving Ninjastorms, and providing lots of input that I could steal
+    for this project :)
+

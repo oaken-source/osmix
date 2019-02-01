@@ -1,0 +1,10 @@
+
+2019-02-01  Andreas Grapentin  <andreas@grapentin.org>
+
+	* Makefile: added build system
+	* config.mk: likewise
+	* osmix/build.mk: likewise
+
+	* osmix/start.S: added bootup code
+	* osmix/kernel.ld: added linker script for explicit binary sections
+	* osmix/kernel.c: added dummy main function

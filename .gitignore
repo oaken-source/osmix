@@ -1,0 +1,6 @@
+
+# compiler generated files
+*.o
+
+# the kernel
+osmix/kernel
